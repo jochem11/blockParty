@@ -1,0 +1,7 @@
+name: BlockParty
+version: '1.0-SNAPSHOT'
+main: blockparty.blockparty.BlockParty
+api-version: 1.17
+commands:
+  blockPartyEvents:
+    description: starts game
